@@ -140,6 +140,7 @@ Depending on where you are interviewing, go through the company blog. VERY USEFU
 * [Pinterest Engineering Blog](http://engineering.pinterest.com/)
 * [Songkick Technology Blog](http://devblog.songkick.com/)
 * [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/)
+* [Spotify Labs] (https://labs.spotify.com/)
 * [Square The Corner](http://corner.squareup.com/)
 * [THE REDDIT BLOG](http://www.redditblog.com/)
 * [The GitHub Blog](https://github.com/blog/category/engineering)
